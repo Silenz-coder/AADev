@@ -64,6 +64,8 @@ gdp_df = get_gdp_data()
 
 # Set the title that appears at the top of the page.
 '''
+# AADev SLA Tool
+
 # :earth_americas: GDP dashboard
 
 Browse GDP data from the [World Bank Open Data](https://data.worldbank.org/) website. As you'll
